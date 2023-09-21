@@ -1,0 +1,3 @@
+﻿  text14.c
+G:\C++_Text\text14\text14\text14.c(1,1): warning C4828: 文件包含在偏移 0x280 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  text14.vcxproj -> G:\C++_Text\text14\x64\Debug\text14.exe
